@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YAML WatchFace</string>
+    <string name="message">Watch face tapped</string>
+    <string name="timezone">TimeZone</string>
+    <string name="localdatetime">LocalDateTime</string>
+    <string name="date">Date</string>
+    <string name="now">now</string>
+    <string name="dayofweek">DayOfWeek</string>
+    <string name="time">Time</string>
+    <string name="today">Today</string>
+    <string name="face_name">YAML</string>
+</resources>

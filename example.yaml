@@ -1,0 +1,7 @@
+TimeZone: "Asia/Tokyo"
+LocalDateTime:
+  Date:
+    today: 2020-01-01
+    dayOfWeek: "Monday"
+  Time:
+    now: [00, 00, 00]
